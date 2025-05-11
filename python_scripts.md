@@ -3,7 +3,7 @@
 This document contains a few Python scripts embedded in the uploaded Tableau workbook as examples. 
 These scripts were used to perform statistical analysis directly within Tableau visualizations.
 
-## 1. Normality Test (Anderson-Darling)
+### 1. Normality Test (Anderson-Darling)
 
 **Script:**
 
@@ -15,7 +15,7 @@ SUM([Affiliate Marketing])
 )
 
 
-## 2. Spearman Correlation Coefficient
+### 2. Spearman Correlation Coefficient
 
 **Script:**
 
@@ -27,7 +27,7 @@ SUM([Product Sold]), SUM([Affiliate Marketing])
 )
 
 
-## 3. P-value for Correlation Significance
+### 3. P-value for Correlation Significance
 
 **Script:**
 
