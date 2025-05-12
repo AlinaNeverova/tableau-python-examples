@@ -1,6 +1,6 @@
 # Tableau Dashboard: Python-Based Correlation & Normality Analysis
 
-This repository contains a Tableau workbook (`.twb`) that demonstrates the integration of Python (via TabPy) into Tableau for statistical analysis.
+This repository contains a Tableau workbook (`.twbx`) that demonstrates the integration of Python (via TabPy) into Tableau for statistical analysis.
 
 ## 🔍 Overview
 
